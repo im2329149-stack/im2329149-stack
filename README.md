@@ -1,6 +1,3 @@
-<!-- Banner superior -->
-<img src="https://i.imgur.com/w4cH2M8.gif" width="100%" />
-
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#00F5D4;">Israel Correa Mata</span> 🚀</h1>
 <h3 align="center">Estudiante de Ingeniería en Tecnologías de la Información 💻</h3>
 
@@ -86,3 +83,4 @@ pasiones:
   - Diseño y Creatividad 🎨
   - Aprender cosas nuevas 📚
 fun_fact: "El mejor proyecto siempre será el próximo 🚀"
+
